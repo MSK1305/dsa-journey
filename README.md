@@ -2,7 +2,7 @@
 My DSA journey in Java with topic-wise solutions, patterns, and interview preparation
 
 Completed
-01-Arrays
+01-Arrays/
 02-Strings
 03-Bit-Manipulation
 04-2D-Arrays
